@@ -1,0 +1,27 @@
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Debug\ImperiumLibrary.dll
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Debug\ImperiumLibrary.pdb
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.dll
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.pdb
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.csproj.ResolveComReference.cache
+C:\Users\#\Desktop\ImperiumRAT\ImperiumLibrary\bin\Debug\ImperiumLibrary.dll
+C:\Users\#\Desktop\ImperiumRAT\ImperiumLibrary\bin\Debug\ImperiumLibrary.pdb
+C:\Users\#\Desktop\ImperiumRAT\ImperiumLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\#\Desktop\ImperiumRAT\ImperiumLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\#\Desktop\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.csprojResolveAssemblyReference.cache
+C:\Users\#\Desktop\ImperiumRAT\ImperiumLibrary\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\#\Desktop\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.csproj.ResolveComReference.cache
+C:\Users\#\Desktop\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.dll
+C:\Users\#\Desktop\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.pdb
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Debug\ImperiumLibrary.dll
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Debug\ImperiumLibrary.pdb
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.csprojResolveAssemblyReference.cache
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.csproj.ResolveComReference.cache
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.dll
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Debug\ImperiumLibrary.pdb

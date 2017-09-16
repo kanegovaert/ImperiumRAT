@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImperiumLibrary", "ImperiumLibrary\ImperiumLibrary.csproj", "{DAEEC184-5677-492D-8D58-BD2DF386CBBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImperiumSERVER", "ImperiumCLIENT\ImperiumSERVER.csproj", "{0AEA1796-EAAD-4A30-A79C-2F1031AE1BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imperium-Client", "Imperium-Client\Imperium-Client.csproj", "{7E425641-3256-4D0B-AD8F-585F4AAE049B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAEEC184-5677-492D-8D58-BD2DF386CBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEEC184-5677-492D-8D58-BD2DF386CBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEEC184-5677-492D-8D58-BD2DF386CBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEEC184-5677-492D-8D58-BD2DF386CBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AEA1796-EAAD-4A30-A79C-2F1031AE1BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEA1796-EAAD-4A30-A79C-2F1031AE1BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEA1796-EAAD-4A30-A79C-2F1031AE1BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEA1796-EAAD-4A30-A79C-2F1031AE1BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E425641-3256-4D0B-AD8F-585F4AAE049B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E425641-3256-4D0B-AD8F-585F4AAE049B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E425641-3256-4D0B-AD8F-585F4AAE049B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E425641-3256-4D0B-AD8F-585F4AAE049B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

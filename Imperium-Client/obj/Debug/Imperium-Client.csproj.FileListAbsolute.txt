@@ -1,0 +1,20 @@
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\Imperium-Client\bin\Debug\Imperium-Client.exe.config
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\Imperium-Client\bin\Debug\Imperium-Client.exe
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\Imperium-Client\bin\Debug\Imperium-Client.pdb
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\Imperium-Client\bin\Debug\ImperiumLibrary.dll
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\Imperium-Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\Imperium-Client\bin\Debug\ImperiumLibrary.pdb
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\Imperium-Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\Imperium-Client\obj\Debug\Imperium-Client.exe
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\Imperium-Client\obj\Debug\Imperium-Client.pdb
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\Imperium-Client\obj\Debug\Imperium-Client.csprojResolveAssemblyReference.cache
+C:\Users\#\Desktop\ImperiumRAT\ImperiumRAT\Imperium-Client\bin\Debug\Imperium-Client.exe.config
+C:\Users\#\Desktop\ImperiumRAT\ImperiumRAT\Imperium-Client\bin\Debug\Imperium-Client.exe
+C:\Users\#\Desktop\ImperiumRAT\ImperiumRAT\Imperium-Client\bin\Debug\Imperium-Client.pdb
+C:\Users\#\Desktop\ImperiumRAT\ImperiumRAT\Imperium-Client\bin\Debug\ImperiumLibrary.dll
+C:\Users\#\Desktop\ImperiumRAT\ImperiumRAT\Imperium-Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\#\Desktop\ImperiumRAT\ImperiumRAT\Imperium-Client\bin\Debug\ImperiumLibrary.pdb
+C:\Users\#\Desktop\ImperiumRAT\ImperiumRAT\Imperium-Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\#\Desktop\ImperiumRAT\ImperiumRAT\Imperium-Client\obj\Debug\Imperium-Client.csprojResolveAssemblyReference.cache
+C:\Users\#\Desktop\ImperiumRAT\ImperiumRAT\Imperium-Client\obj\Debug\Imperium-Client.exe
+C:\Users\#\Desktop\ImperiumRAT\ImperiumRAT\Imperium-Client\obj\Debug\Imperium-Client.pdb

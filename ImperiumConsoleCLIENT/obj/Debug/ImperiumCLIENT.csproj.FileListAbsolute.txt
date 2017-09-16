@@ -1,0 +1,10 @@
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumConsoleCLIENT\bin\Debug\ImperiumConsoleCLIENT.exe.config
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumConsoleCLIENT\bin\Debug\ImperiumConsoleCLIENT.exe
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumConsoleCLIENT\bin\Debug\ImperiumConsoleCLIENT.pdb
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumConsoleCLIENT\bin\Debug\ImperiumLibrary.dll
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumConsoleCLIENT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumConsoleCLIENT\bin\Debug\ImperiumLibrary.pdb
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumConsoleCLIENT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumConsoleCLIENT\obj\Debug\ImperiumCLIENT.csprojResolveAssemblyReference.cache
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumConsoleCLIENT\obj\Debug\ImperiumConsoleCLIENT.exe
+C:\Users\#\Documents\Visual Studio 2017\Projects\ImperiumRAT\ImperiumConsoleCLIENT\obj\Debug\ImperiumConsoleCLIENT.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Release\ImperiumLibrary.dll
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Release\ImperiumLibrary.pdb
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Release\ImperiumLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Release\Interop.NATUPNPLib.dll
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Release\ImperiumLibrary.csproj.ResolveComReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Release\ImperiumLibrary.dll
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumLibrary\obj\Release\ImperiumLibrary.pdb

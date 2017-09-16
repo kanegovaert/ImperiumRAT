@@ -1,0 +1,16 @@
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\bin\Debug\ImperiumCLIENT.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\bin\Debug\ImperiumCLIENT.exe
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\bin\Debug\ImperiumCLIENT.pdb
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\obj\Debug\ImperiumCLIENT.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\obj\Debug\ImperiumCLIENT.ImperiumMainForm.resources
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\obj\Debug\ImperiumCLIENT.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\obj\Debug\ImperiumCLIENT.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\obj\Debug\ImperiumCLIENT.exe
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\obj\Debug\ImperiumCLIENT.pdb
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\obj\Debug\ImperiumCLIENT.Forms.ImperiumSettingsForm.resources
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\obj\Debug\ImperiumCLIENT.Forms.AboutImperiumForm.resources
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\obj\Debug\ImperiumCLIENT.Forms.BuilderForm.resources
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\bin\Debug\ImperiumLibrary.dll
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\bin\Debug\ImperiumLibrary.pdb
+C:\Users\User\documents\visual studio 2017\Projects\ImperiumRAT\ImperiumCLIENT\bin\Debug\Newtonsoft.Json.xml
